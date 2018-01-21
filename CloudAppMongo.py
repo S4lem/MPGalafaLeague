@@ -3,6 +3,7 @@ import logging
 import time
 import sys, os
 import json
+from bson.son import SON
 from pymongo import MongoClient # Library mongo driver
 import pprint # getting documents in mongodb
 
@@ -45,10 +46,10 @@ def print_sub_menu_2():
     print("4. Retour")
     print(67 * "-")
 
-def print_sub_menu_3():  ## Your menu design here
+def print_sub_menu_3():  ## UTILISER DES REQUETES AVEC EXPLAIN
     print (30 * "-", "MENU", 30 * "-")
-    print("1. Menu Option 1")
-    print("2. Menu Option 2")
+    print("1. ADMIN Menu Option 1")
+    print("2. ADMIN Menu Option 2")
     print("5. Retour")
     print(67 * "-")
 
@@ -66,10 +67,24 @@ def Multiple_doc_query():
     print(30 * "-", "FIND MULTIPLE DOCUMENTS", 30 * "-")
     for doc in collectionMatch.find({'TeamHome.ResultOfTeamHome': '1'}):
         pprint.pprint(doc)
+def Nb_goal_per_player():
+    pipeline = [
+        {"$group":{"_id":"$Player.Name", "Tot goals":{"$sum":1}}}
+    ]
+    print(30 * "-", "Player names", 30 * "-")
+    pprint.pprint(list(collectionAction.aggregate(pipeline)))
 
+def Nb_cleansheet_per_player():
+    pipeline = [
+
+        {"$group": {"_id": "$Player.Name", "Tot Cleansheet": {"$sum": "CleanSheets"}}}
+    ]
+    print(30 * "-", "CleanSheet", 30 * "-")
+    pprint.pprint(list(collectionAction.aggregate(pipeline)))
 #================================================================
                         #MAIN
 #================================================================
+
 #Connect to mongoClient
 client = MongoClient() # Connect to the default host and port
 logger.info("connected")
@@ -91,6 +106,7 @@ logger.info("got the collections")
 #2 loops because menu depth = 2
 loop = True
 loop1 = True
+
 #Displaying
 while loop:  ## While loop which will keep going until loop = False
     print_menu()  ## Displays menu
@@ -105,10 +121,12 @@ while loop:  ## While loop which will keep going until loop = False
             if choice2 == 1:
                 print("Sub Menu 1.1")
                 # TODO 1st user query here
+                Nb_goal_per_player()
                 print_sub_menu_1()
             elif choice2 == 2:
                 print("Menu 1.2 user")
                 #TODO 2nd user query here
+                Nb_cleansheet_per_player()
                 print_sub_menu_1()
             elif choice2 == 3:
                 print("Menu 1.3 user")
