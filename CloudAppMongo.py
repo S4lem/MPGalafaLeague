@@ -3,6 +3,7 @@ import logging
 import time
 import sys, os
 import json
+import re
 from bson.son import SON
 from pymongo import MongoClient # Library mongo driver
 import pprint # getting documents in mongodb
@@ -67,9 +68,9 @@ def Multiple_doc_query():
     print(30 * "-", "FIND MULTIPLE DOCUMENTS", 30 * "-")
     for doc in collectionMatch.find({'TeamHome.ResultOfTeamHome': '1'}):
         pprint.pprint(doc)
-def Nb_goal_per_player():
+def Nb_goal_per_player():#TODO fix Regex (doesnt work)
     pipeline = [
-        {"$group":{"_id":"$Player.Name", "Tot goals":{"$sum":1}}}
+        {"$group":{"_id":"$Player.Name", "Tot goals":{"$sum":{"$regex":re.compile('goal'),"$options": 'si'}}}}
     ]
     print(30 * "-", "Player names", 30 * "-")
     pprint.pprint(list(collectionAction.aggregate(pipeline)))
@@ -80,6 +81,14 @@ def Nb_cleansheet_per_player():
         {"$group": {"_id": "$Player.Name", "Tot Cleansheet": {"$sum": "CleanSheets"}}}
     ]
     print(30 * "-", "CleanSheet", 30 * "-")
+    pprint.pprint(list(collectionAction.aggregate(pipeline)))
+
+def Nb_PassRight_per_player():
+    pipeline = [
+
+        {"$group": {"_id": "$Player.Name", "Tot pass right": {"$sum": "PassRight"}}}
+    ]
+    print(30 * "-", "PassRight", 30 * "-")
     pprint.pprint(list(collectionAction.aggregate(pipeline)))
 #================================================================
                         #MAIN
@@ -131,6 +140,7 @@ while loop:  ## While loop which will keep going until loop = False
             elif choice2 == 3:
                 print("Menu 1.3 user")
                 # TODO 3rd user query here
+                Nb_PassRight_per_player()
                 print_sub_menu_1()
             elif choice2 == 4:
                 print("Menu 1.4 user")
