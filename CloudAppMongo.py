@@ -73,7 +73,7 @@ def Nb_goal_per_player():
 
     print(30 * "-", "Player names", 30 * "-")
 
-    map =  Code("function () { var goals =  parseInt(this.SummaryMatch.goals, 10); emit(this.Player.Name, goals);}")
+    map =  Code("function () { emit(this.Player.Name, this.SummaryMatch.goals);}")
 
     reduce =  Code("function (key, values) { return Array.sum(values);}")
 
