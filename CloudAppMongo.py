@@ -119,8 +119,10 @@ loop1 = True
 #Displaying
 while loop:  ## While loop which will keep going until loop = False
     print_menu()  ## Displays menu
-    choice = int(input("Enter your choice [1-4]: "))
-
+    try:
+        choice = int(input("Enter your choice [1-4]: "))
+    except ValueError:
+        choice = 0
     if choice == 1:
         loop1 = True
         print("Menu 1 simple query")
