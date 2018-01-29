@@ -5,6 +5,7 @@ import sys, os
 import json
 import re
 from bson.son import SON
+from bson.code import Code
 from pymongo import MongoClient # Library mongo driver
 import pprint # getting documents in mongodb
 
@@ -68,12 +69,17 @@ def Multiple_doc_query():
     print(30 * "-", "FIND MULTIPLE DOCUMENTS", 30 * "-")
     for doc in collectionMatch.find({'TeamHome.ResultOfTeamHome': '1'}):
         pprint.pprint(doc)
-def Nb_goal_per_player():#TODO fix Regex (doesnt work)
-    pipeline = [
-        {"$group":{"_id":"$Player.Name", "Tot goals":{"$sum":{"$regex":re.compile('goal'),"$options": 'si'}}}}
-    ]
+def Nb_goal_per_player():
+
     print(30 * "-", "Player names", 30 * "-")
-    pprint.pprint(list(collectionAction.aggregate(pipeline)))
+
+    map =  Code("function () { var goals =  parseInt(this.SummaryMatch.goals, 10); emit(this.Player.Name, goals);}")
+
+    reduce =  Code("function (key, values) { return Array.sum(values);}")
+
+    result = db.actionsExtended.map_reduce(map, reduce, "myresults")
+		
+    pprint.pprint(list(result.find()))
 
 def Nb_cleansheet_per_player():
     pipeline = [
