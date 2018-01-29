@@ -89,6 +89,15 @@ def Nb_cleansheet_per_player():
     print(30 * "-", "CleanSheet", 30 * "-")
     pprint.pprint(list(collectionAction.aggregate(pipeline)))
 
+
+def Nb_penalty_conceded_per_player():
+    pipeline = [
+        {"$group": {"_id": "$Player.Name", "Tot penalties conceded": {"$sum": "$PenaltiesConceded"}}} , 
+        {"$sort": {"Tot penalties conceded": -1} } 
+    ]
+    print(30 * "-", "CleanSheet", 30 * "-")
+    pprint.pprint(list(collectionAction.aggregate(pipeline)))
+    
 def Nb_PassRight_per_player():
     pipeline = [
 
@@ -153,6 +162,7 @@ while loop:  ## While loop which will keep going until loop = False
             elif choice2 == 4:
                 print("Menu 1.4 user")
                 # TODO 4th user query here
+                Nb_penalty_conceded_per_player()
                 print_sub_menu_1()
             elif choice2 == 5:
                 print("Menu 1.5 user")
