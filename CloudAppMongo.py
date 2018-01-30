@@ -1,18 +1,18 @@
+# coding: utf-8
 import argparse
 import logging
-import time
+from time import sleep
 import sys, os
 import json
-import re
-from bson.son import SON
-from bson.code import Code
 from pymongo import MongoClient  # Library mongo driver
+from pymongo.mongo_replica_set_client import MongoReplicaSetClient
+from pymongo import errors
 import pprint  # getting documents in mongodb
 
 # ================================================================
 # LOGGER SETTINGS
 # ================================================================
-logger = logging.getLogger('classify_images.py')
+logger = logging.getLogger()
 logger.setLevel(logging.INFO)
 ch = logging.StreamHandler()
 ch.setFormatter(logging.Formatter('%(asctime)s - %(levelname)s - %(message)s'))
@@ -27,7 +27,7 @@ def print_menu():
     print(30 * "-", "MENU", 30 * "-")
     print("1. USER VIEW")
     print("2. ANALYST VIEW")
-    print("3. ADMINISTRATOR VIEW")
+    print("3. ADMINISTRATOR VIEW (n'a pas été implémenté)")
     print("4. Quitter")
     print(67 * "-")
 
@@ -53,8 +53,8 @@ def print_sub_menu_2():
 
 def print_sub_menu_3():  ## UTILISER DES REQUETES AVEC EXPLAIN
     print(30 * "-", "MENU", 30 * "-")
-    print("1. ADMIN Menu Option 1")
-    print("2. ADMIN Menu Option 2")
+    print("1. ADMIN Menu Option 1 Requete de type EXPLAIN()")
+    print("2. ADMIN Menu Option 2 Requete de type EXPLAIN()")
     print("5. Retour")
     print(67 * "-")
 
@@ -104,19 +104,6 @@ def Nb_cleansheet_per_player():  # Done
     ]
     print(30 * "-", "TOP 5 Goalkeeper per CleanSheet", 30 * "-")
     pprint.pprint(list(collectionAction.aggregate(pipeline)))
-
-
-# def Nb_goal_per_player():
-#
-#     print(30 * "-", "Player names", 30 * "-")
-#
-#     map =  Code("function () { emit(this.Player.Name, this.SummaryMatch.goals);}")
-#
-#     reduce =  Code("function (key, values) { return Array.sum(values);}")
-#
-#     result = db.actionsExtended.map_reduce(map, reduce, "myresults")
-#
-#     pprint.pprint(list(result.find()))
 
 def Nb_GoalConceded_per_player():
     pipeline = [
@@ -209,14 +196,36 @@ logger.info("connected")
 if not client:
     client = MongoClient('localhost', 27017)
     logger.info("connected")
+
+#Initiate replicasets
+# config = {'_id': 'rs0', 'members': [
+#     {'_id': 0, 'host': 'localhost:27017'},
+#     {'_id': 1, 'host': 'localhost:27018'},
+#     {'_id': 2, 'host': 'localhost:27019'}]}
+#client.admin.command("replSetInitiate", config)
+#Connection to replica sets
+# MongoClient('LAPTOP:27017', replicaset='rs0')
+# MongoClient('LAPTOP:27018', replicaset='rs0')
+# MongoClient('LAPTOP:27019', replicaset='rs0')
+# c = MongoClient(replicaset='rs0')
+# print(c.nodes)
+# sleep(0.1)
+# print(c.nodes)
+# sleep(0.1)
+# print(c.nodes)
+# sleep(0.5)
+# print(c.nodes)
+
 # Getting the database
 db = client.premierleague
 logger.info("got the DB")
 # Getting the collection
 d = dict((db, [collection for collection in client[db].collection_names(include_system_collections=False)])
-         for db in client.database_names())
-#print(30 * "-", "DISPLAY COLLECTIONS", 30 * "-")
-#pprint.pprint(json.dumps(d))
+for db in client.database_names())
+print(30 * "-", "DISPLAY COLLECTIONS", 30 * "-")
+pprint.pprint(json.dumps(d))
+
+
 collectionMatch = db['matchesExtended']
 collectionAction = db['actionsExtended']
 logger.info("got the collections")
