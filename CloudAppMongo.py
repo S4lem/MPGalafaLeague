@@ -215,8 +215,8 @@ logger.info("got the DB")
 # Getting the collection
 d = dict((db, [collection for collection in client[db].collection_names(include_system_collections=False)])
          for db in client.database_names())
-print(30 * "-", "DISPLAY COLLECTIONS", 30 * "-")
-pprint.pprint(json.dumps(d))
+#print(30 * "-", "DISPLAY COLLECTIONS", 30 * "-")
+#pprint.pprint(json.dumps(d))
 collectionMatch = db['matchesExtended']
 collectionAction = db['actionsExtended']
 logger.info("got the collections")
