@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f9b56f1-6f24-44a6-98ce-de8f529a04bc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/CloudAppMongo.py" afterPath="$PROJECT_DIR$/CloudAppMongo.py" />
-      <change beforePath="$PROJECT_DIR$/Query_Action_Match_DB.js" afterPath="$PROJECT_DIR$/Query_Action_Match_DB.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,10 +16,18 @@
       <file leaf-file-name="CloudAppMongo.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CloudAppMongo.py">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="136">
               <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
               <folding>
                 <element signature="e#10085#10725#0" expanded="false" />
+=======
+            <state relative-caret-position="295">
+              <caret line="173" column="0" lean-forward="true" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#10188#10828#0" expanded="false" />
+>>>>>>> rebase, merging works
               </folding>
             </state>
           </provider>
@@ -220,7 +226,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#10085#10725#0" expanded="false" />
+=======
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#10188#10828#0" expanded="false" />
+>>>>>>> rebase, merging works
           </folding>
         </state>
       </provider>
@@ -230,7 +241,12 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#10085#10725#0" expanded="false" />
+=======
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#10188#10828#0" expanded="false" />
+>>>>>>> rebase, merging works
           </folding>
         </state>
       </provider>
@@ -242,6 +258,7 @@
         <state relative-caret-position="295">
           <caret line="173" column="0" lean-forward="true" selection-start-line="173" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
           <folding>
+<<<<<<< HEAD
             <element signature="e#10085#10725#0" expanded="false" />
           </folding>
         </state>
@@ -275,6 +292,10 @@
           <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
             <element signature="e#10085#10725#0" expanded="false" />
+=======
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#10188#10828#0" expanded="false" />
+>>>>>>> rebase, merging works
           </folding>
         </state>
       </provider>
