@@ -71,11 +71,36 @@ db.actionsExtended.aggregate([
 { $limit : 5 }
 ])
 
-// V/N/D 
+
+//classement top n teams
 db.matchesExtended.aggregate([
-{$group:{_id:"$TeamHome.Name",
-   "V":{$cond:["$TeamHome.ResultOfTeamHome":{$eq:1},{$add:["$V",1]},{$add:["$V",0]}]},
-   "N":{$cond:["$TeamHome.ResultOfTeamHome":{$eq:0},{$add:["$N",1]},{$add:["$N",0]}]},
-   "D":{$cond:["$TeamHome.ResultOfTeamHome":{$eq:-1},{$add:["$D",1]},{$add:["$D",0]}]},
-   }}
+{$group:{_id:"$TeamHome.Name", 
+"classement":{$sum:"$TeamHome.ResultOfTeamHome"}}},
+{$sort:{'classement':-1}}
 ])
+
+//nb victoire par equipe
+db.matchesExtended.aggregate([
+{$match:{"TeamHome.ResultOfTeamHome" : 1}},
+{$group:{_id:"$TeamHome.Name", "victoires":{$sum:1}}},
+{$sort:{'victoires':-1}}])
+//nb defaite par equipe
+db.matchesExtended.aggregate([
+{$match:{"TeamHome.ResultOfTeamHome" : -1}},
+{$group:{_id:"$TeamHome.Name", "defaites":{$sum:1}}},
+{$sort:{'defaites':-1}}])
+//nb nul par equipe
+db.matchesExtended.aggregate([
+{$match:{"TeamHome.ResultOfTeamHome" : 0}},
+{$group:{_id:"$TeamHome.Name", "nul":{$sum:1}}},
+{$sort:{'nul':-1}}])
+// get the score of a specific team
+db.matchesExtended.aggregate([
+{$match:{"TeamHome.Name" :{ $regex: /Man/ }}},
+{$group:{_id:"$TeamHome.Name", 
+"Score":{$sum:"$TeamHome.ResultOfTeamHome"}}},
+{$sort:{'Score':-1}}
+])
+//get all teams 
+db.matchesExtended.distinct("TeamHome.Name")
+
