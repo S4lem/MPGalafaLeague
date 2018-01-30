@@ -103,4 +103,4 @@ db.matchesExtended.aggregate([
 ])
 //get all teams 
 db.matchesExtended.distinct("TeamHome.Name")
-
+//Admin view
