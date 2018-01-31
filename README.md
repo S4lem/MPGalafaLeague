@@ -29,7 +29,7 @@ This will create 2 new collections called MatchesExtended and ActionsExtended.
 ## 4. Adjust some type attributes
 All of the data is in string type. In order to handle queries with quantitative values, we must set some of the types from string to int.
 
-For this, you will need to run *Query_to_execute.js* file in the directory Queries.
+For this, you will need to run *Query_to_execute.js* file in the "Queries" folder.
 
 
 
