@@ -1,11 +1,5 @@
 # MPGalafaLeague
-MPGalafaleague est une application informant les utilisateurs des statistiques de la Premier League anglaise saison 2015-2016.
-
-# Objectif du projet MPGalafaLeague: 
-Outil complémentaire à l'application MonPetitGazon --> Permettant aux joueurs de composer la meilleure équipe possible en premierLeague
-                                                   --> Permettant aux joueurs de réaliser le meilleur Mercato possible
-                                                   -->
-Facilité l'accés aux statistiques footballistiques anglaise
+MPGalafaleague is a Console Application that gives you some statistics about Football Premier League in 2011/2012 season.
 
 # Installation
 
