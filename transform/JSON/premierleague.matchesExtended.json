@@ -1,0 +1,6080 @@
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762992"), 
+    "MatchID" : "1", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762993"), 
+    "MatchID" : "2", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762994"), 
+    "MatchID" : "3", 
+    "Date" : "2011-09-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762995"), 
+    "MatchID" : "4", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762996"), 
+    "MatchID" : "5", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762997"), 
+    "MatchID" : "6", 
+    "Date" : "2012-02-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762998"), 
+    "MatchID" : "7", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762999"), 
+    "MatchID" : "8", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c2476299a"), 
+    "MatchID" : "9", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c2476299b"), 
+    "MatchID" : "10", 
+    "Date" : "2012-03-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c2476299c"), 
+    "MatchID" : "11", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c2476299d"), 
+    "MatchID" : "12", 
+    "Date" : "2012-01-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c2476299e"), 
+    "MatchID" : "13", 
+    "Date" : "2011-08-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c2476299f"), 
+    "MatchID" : "14", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a0"), 
+    "MatchID" : "15", 
+    "Date" : "2011-12-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a1"), 
+    "MatchID" : "16", 
+    "Date" : "2012-04-08 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a2"), 
+    "MatchID" : "17", 
+    "Date" : "2011-08-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a3"), 
+    "MatchID" : "18", 
+    "Date" : "2012-01-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a4"), 
+    "MatchID" : "19", 
+    "Date" : "2011-08-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a5"), 
+    "MatchID" : "20", 
+    "Date" : "2012-03-12 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a6"), 
+    "MatchID" : "21", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a7"), 
+    "MatchID" : "22", 
+    "Date" : "2012-05-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "3"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a8"), 
+    "MatchID" : "23", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629a9"), 
+    "MatchID" : "24", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629aa"), 
+    "MatchID" : "25", 
+    "Date" : "2011-10-23 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ab"), 
+    "MatchID" : "26", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ac"), 
+    "MatchID" : "27", 
+    "Date" : "2011-10-16 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ad"), 
+    "MatchID" : "28", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ae"), 
+    "MatchID" : "29", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629af"), 
+    "MatchID" : "30", 
+    "Date" : "2012-01-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b0"), 
+    "MatchID" : "31", 
+    "Date" : "2011-10-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b1"), 
+    "MatchID" : "32", 
+    "Date" : "2012-02-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b2"), 
+    "MatchID" : "33", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b3"), 
+    "MatchID" : "34", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b4"), 
+    "MatchID" : "35", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b5"), 
+    "MatchID" : "36", 
+    "Date" : "2012-04-16 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "11"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b6"), 
+    "MatchID" : "37", 
+    "Date" : "2011-12-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b7"), 
+    "MatchID" : "38", 
+    "Date" : "2012-04-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "3", 
+        "Name" : "Arsenal", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b8"), 
+    "MatchID" : "39", 
+    "Date" : "2011-08-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629b9"), 
+    "MatchID" : "40", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ba"), 
+    "MatchID" : "41", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629bb"), 
+    "MatchID" : "42", 
+    "Date" : "2012-04-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629bc"), 
+    "MatchID" : "43", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629bd"), 
+    "MatchID" : "44", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629be"), 
+    "MatchID" : "45", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629bf"), 
+    "MatchID" : "46", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c0"), 
+    "MatchID" : "47", 
+    "Date" : "2011-08-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c1"), 
+    "MatchID" : "48", 
+    "Date" : "2012-03-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c2"), 
+    "MatchID" : "49", 
+    "Date" : "2011-12-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c3"), 
+    "MatchID" : "50", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c4"), 
+    "MatchID" : "51", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c5"), 
+    "MatchID" : "52", 
+    "Date" : "2012-02-12 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c6"), 
+    "MatchID" : "53", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c7"), 
+    "MatchID" : "54", 
+    "Date" : "2012-04-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c8"), 
+    "MatchID" : "55", 
+    "Date" : "2011-09-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629c9"), 
+    "MatchID" : "56", 
+    "Date" : "2012-02-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ca"), 
+    "MatchID" : "57", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629cb"), 
+    "MatchID" : "58", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629cc"), 
+    "MatchID" : "59", 
+    "Date" : "2011-09-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629cd"), 
+    "MatchID" : "60", 
+    "Date" : "2012-02-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ce"), 
+    "MatchID" : "61", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629cf"), 
+    "MatchID" : "62", 
+    "Date" : "2012-04-09 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d0"), 
+    "MatchID" : "63", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d1"), 
+    "MatchID" : "64", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d2"), 
+    "MatchID" : "65", 
+    "Date" : "2011-11-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d3"), 
+    "MatchID" : "66", 
+    "Date" : "2012-01-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d4"), 
+    "MatchID" : "67", 
+    "Date" : "2011-11-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d5"), 
+    "MatchID" : "68", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d6"), 
+    "MatchID" : "69", 
+    "Date" : "2011-10-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d7"), 
+    "MatchID" : "70", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d8"), 
+    "MatchID" : "71", 
+    "Date" : "2011-10-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629d9"), 
+    "MatchID" : "72", 
+    "Date" : "2012-02-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "11", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629da"), 
+    "MatchID" : "73", 
+    "Date" : "2011-08-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629db"), 
+    "MatchID" : "74", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "7", 
+        "Name" : "Aston Villa", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629dc"), 
+    "MatchID" : "75", 
+    "Date" : "2011-12-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629dd"), 
+    "MatchID" : "76", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629de"), 
+    "MatchID" : "77", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629df"), 
+    "MatchID" : "78", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e0"), 
+    "MatchID" : "79", 
+    "Date" : "2011-08-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e1"), 
+    "MatchID" : "80", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e2"), 
+    "MatchID" : "81", 
+    "Date" : "2011-09-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e3"), 
+    "MatchID" : "82", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e4"), 
+    "MatchID" : "83", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e5"), 
+    "MatchID" : "84", 
+    "Date" : "2012-04-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e6"), 
+    "MatchID" : "85", 
+    "Date" : "2011-10-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e7"), 
+    "MatchID" : "86", 
+    "Date" : "2012-02-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e8"), 
+    "MatchID" : "87", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629e9"), 
+    "MatchID" : "88", 
+    "Date" : "2012-04-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ea"), 
+    "MatchID" : "89", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629eb"), 
+    "MatchID" : "90", 
+    "Date" : "2012-02-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ec"), 
+    "MatchID" : "91", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ed"), 
+    "MatchID" : "92", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ee"), 
+    "MatchID" : "93", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ef"), 
+    "MatchID" : "94", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f0"), 
+    "MatchID" : "95", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f1"), 
+    "MatchID" : "96", 
+    "Date" : "2012-01-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f2"), 
+    "MatchID" : "97", 
+    "Date" : "2011-12-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f3"), 
+    "MatchID" : "98", 
+    "Date" : "2012-03-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f4"), 
+    "MatchID" : "99", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f5"), 
+    "MatchID" : "100", 
+    "Date" : "2012-04-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f6"), 
+    "MatchID" : "101", 
+    "Date" : "2011-10-23 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f7"), 
+    "MatchID" : "102", 
+    "Date" : "2012-04-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "10"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f8"), 
+    "MatchID" : "103", 
+    "Date" : "2011-12-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629f9"), 
+    "MatchID" : "104", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629fa"), 
+    "MatchID" : "105", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629fb"), 
+    "MatchID" : "106", 
+    "Date" : "2012-05-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "17"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629fc"), 
+    "MatchID" : "107", 
+    "Date" : "2011-08-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629fd"), 
+    "MatchID" : "108", 
+    "Date" : "2012-03-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "5", 
+        "Name" : "Blackburn Rovers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629fe"), 
+    "MatchID" : "109", 
+    "Date" : "2011-10-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c247629ff"), 
+    "MatchID" : "110", 
+    "Date" : "2012-02-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a00"), 
+    "MatchID" : "111", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a01"), 
+    "MatchID" : "112", 
+    "Date" : "2012-01-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a02"), 
+    "MatchID" : "113", 
+    "Date" : "2011-12-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a03"), 
+    "MatchID" : "114", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a04"), 
+    "MatchID" : "115", 
+    "Date" : "2011-08-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a05"), 
+    "MatchID" : "116", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a06"), 
+    "MatchID" : "117", 
+    "Date" : "2011-08-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a07"), 
+    "MatchID" : "118", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a08"), 
+    "MatchID" : "119", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a09"), 
+    "MatchID" : "120", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a0a"), 
+    "MatchID" : "121", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a0b"), 
+    "MatchID" : "122", 
+    "Date" : "2012-04-09 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a0c"), 
+    "MatchID" : "123", 
+    "Date" : "2011-09-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a0d"), 
+    "MatchID" : "124", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a0e"), 
+    "MatchID" : "125", 
+    "Date" : "2011-08-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a0f"), 
+    "MatchID" : "126", 
+    "Date" : "2012-03-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a10"), 
+    "MatchID" : "127", 
+    "Date" : "2011-11-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a11"), 
+    "MatchID" : "128", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a12"), 
+    "MatchID" : "129", 
+    "Date" : "2011-10-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a13"), 
+    "MatchID" : "130", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a14"), 
+    "MatchID" : "131", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a15"), 
+    "MatchID" : "132", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a16"), 
+    "MatchID" : "133", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a17"), 
+    "MatchID" : "134", 
+    "Date" : "2012-05-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a18"), 
+    "MatchID" : "135", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a19"), 
+    "MatchID" : "136", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a1a"), 
+    "MatchID" : "137", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a1b"), 
+    "MatchID" : "138", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "11"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a1c"), 
+    "MatchID" : "139", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a1d"), 
+    "MatchID" : "140", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "30", 
+        "Name" : "Bolton Wanderers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a1e"), 
+    "MatchID" : "141", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a1f"), 
+    "MatchID" : "142", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a20"), 
+    "MatchID" : "143", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a21"), 
+    "MatchID" : "144", 
+    "Date" : "2012-04-09 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a22"), 
+    "MatchID" : "145", 
+    "Date" : "2011-11-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a23"), 
+    "MatchID" : "146", 
+    "Date" : "2012-05-08 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a24"), 
+    "MatchID" : "147", 
+    "Date" : "2011-12-12 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a25"), 
+    "MatchID" : "148", 
+    "Date" : "2012-03-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a26"), 
+    "MatchID" : "149", 
+    "Date" : "2011-09-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a27"), 
+    "MatchID" : "150", 
+    "Date" : "2012-02-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a28"), 
+    "MatchID" : "151", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a29"), 
+    "MatchID" : "152", 
+    "Date" : "2012-05-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a2a"), 
+    "MatchID" : "153", 
+    "Date" : "2011-08-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "3", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "10"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a2b"), 
+    "MatchID" : "154", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a2c"), 
+    "MatchID" : "155", 
+    "Date" : "2011-10-23 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a2d"), 
+    "MatchID" : "156", 
+    "Date" : "2012-04-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a2e"), 
+    "MatchID" : "157", 
+    "Date" : "2011-08-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a2f"), 
+    "MatchID" : "158", 
+    "Date" : "2012-03-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a30"), 
+    "MatchID" : "159", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a31"), 
+    "MatchID" : "160", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a32"), 
+    "MatchID" : "161", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a33"), 
+    "MatchID" : "162", 
+    "Date" : "2012-01-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a34"), 
+    "MatchID" : "163", 
+    "Date" : "2011-12-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a35"), 
+    "MatchID" : "164", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a36"), 
+    "MatchID" : "165", 
+    "Date" : "2011-08-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a37"), 
+    "MatchID" : "166", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a38"), 
+    "MatchID" : "167", 
+    "Date" : "2011-12-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "10", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a39"), 
+    "MatchID" : "168", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "11"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a3a"), 
+    "MatchID" : "169", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a3b"), 
+    "MatchID" : "170", 
+    "Date" : "2012-01-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "8", 
+        "Name" : "Chelsea", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a3c"), 
+    "MatchID" : "171", 
+    "Date" : "2011-10-23 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a3d"), 
+    "MatchID" : "172", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a3e"), 
+    "MatchID" : "173", 
+    "Date" : "2011-10-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a3f"), 
+    "MatchID" : "174", 
+    "Date" : "2012-03-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a40"), 
+    "MatchID" : "175", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a41"), 
+    "MatchID" : "176", 
+    "Date" : "2012-01-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a42"), 
+    "MatchID" : "177", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a43"), 
+    "MatchID" : "178", 
+    "Date" : "2012-04-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a44"), 
+    "MatchID" : "179", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a45"), 
+    "MatchID" : "180", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a46"), 
+    "MatchID" : "181", 
+    "Date" : "2011-12-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a47"), 
+    "MatchID" : "182", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a48"), 
+    "MatchID" : "183", 
+    "Date" : "2011-08-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a49"), 
+    "MatchID" : "184", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a4a"), 
+    "MatchID" : "185", 
+    "Date" : "2011-12-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a4b"), 
+    "MatchID" : "186", 
+    "Date" : "2012-05-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a4c"), 
+    "MatchID" : "187", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a4d"), 
+    "MatchID" : "188", 
+    "Date" : "2012-04-09 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a4e"), 
+    "MatchID" : "189", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a4f"), 
+    "MatchID" : "190", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a50"), 
+    "MatchID" : "191", 
+    "Date" : "2012-01-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a51"), 
+    "MatchID" : "192", 
+    "Date" : "2012-03-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a52"), 
+    "MatchID" : "193", 
+    "Date" : "2012-01-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a53"), 
+    "MatchID" : "194", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a54"), 
+    "MatchID" : "195", 
+    "Date" : "2011-09-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a55"), 
+    "MatchID" : "196", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "10", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a56"), 
+    "MatchID" : "197", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a57"), 
+    "MatchID" : "198", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "11", 
+        "Name" : "Everton", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a58"), 
+    "MatchID" : "199", 
+    "Date" : "2011-12-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a59"), 
+    "MatchID" : "200", 
+    "Date" : "2012-05-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a5a"), 
+    "MatchID" : "201", 
+    "Date" : "2011-09-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a5b"), 
+    "MatchID" : "202", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a5c"), 
+    "MatchID" : "203", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a5d"), 
+    "MatchID" : "204", 
+    "Date" : "2012-03-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a5e"), 
+    "MatchID" : "205", 
+    "Date" : "2011-08-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a5f"), 
+    "MatchID" : "206", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a60"), 
+    "MatchID" : "207", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a61"), 
+    "MatchID" : "208", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "11"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a62"), 
+    "MatchID" : "209", 
+    "Date" : "2011-10-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a63"), 
+    "MatchID" : "210", 
+    "Date" : "2012-02-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a64"), 
+    "MatchID" : "211", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a65"), 
+    "MatchID" : "212", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a66"), 
+    "MatchID" : "213", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a67"), 
+    "MatchID" : "214", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a68"), 
+    "MatchID" : "215", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a69"), 
+    "MatchID" : "216", 
+    "Date" : "2012-03-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a6a"), 
+    "MatchID" : "217", 
+    "Date" : "2011-11-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a6b"), 
+    "MatchID" : "218", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a6c"), 
+    "MatchID" : "219", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a6d"), 
+    "MatchID" : "220", 
+    "Date" : "2012-02-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a6e"), 
+    "MatchID" : "221", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a6f"), 
+    "MatchID" : "222", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "11"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a70"), 
+    "MatchID" : "223", 
+    "Date" : "2011-08-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a71"), 
+    "MatchID" : "224", 
+    "Date" : "2012-03-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "54", 
+        "Name" : "Fulham", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a72"), 
+    "MatchID" : "225", 
+    "Date" : "2011-11-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a73"), 
+    "MatchID" : "226", 
+    "Date" : "2012-01-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a74"), 
+    "MatchID" : "227", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a75"), 
+    "MatchID" : "228", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a76"), 
+    "MatchID" : "229", 
+    "Date" : "2011-12-30 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a77"), 
+    "MatchID" : "230", 
+    "Date" : "2012-04-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a78"), 
+    "MatchID" : "231", 
+    "Date" : "2011-10-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a79"), 
+    "MatchID" : "232", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a7a"), 
+    "MatchID" : "233", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a7b"), 
+    "MatchID" : "234", 
+    "Date" : "2012-03-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a7c"), 
+    "MatchID" : "235", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a7d"), 
+    "MatchID" : "236", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "17", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a7e"), 
+    "MatchID" : "237", 
+    "Date" : "2011-08-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a7f"), 
+    "MatchID" : "238", 
+    "Date" : "2012-03-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a80"), 
+    "MatchID" : "239", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a81"), 
+    "MatchID" : "240", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a82"), 
+    "MatchID" : "241", 
+    "Date" : "2011-09-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a83"), 
+    "MatchID" : "242", 
+    "Date" : "2012-02-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a84"), 
+    "MatchID" : "243", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a85"), 
+    "MatchID" : "244", 
+    "Date" : "2012-04-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a86"), 
+    "MatchID" : "245", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "13", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a87"), 
+    "MatchID" : "246", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a88"), 
+    "MatchID" : "247", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a89"), 
+    "MatchID" : "248", 
+    "Date" : "2012-01-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "14", 
+        "Name" : "Liverpool", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a8a"), 
+    "MatchID" : "249", 
+    "Date" : "2011-10-23 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a8b"), 
+    "MatchID" : "250", 
+    "Date" : "2012-04-30 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a8c"), 
+    "MatchID" : "251", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a8d"), 
+    "MatchID" : "252", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a8e"), 
+    "MatchID" : "253", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a8f"), 
+    "MatchID" : "254", 
+    "Date" : "2012-04-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a90"), 
+    "MatchID" : "255", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a91"), 
+    "MatchID" : "256", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a92"), 
+    "MatchID" : "257", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a93"), 
+    "MatchID" : "258", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a94"), 
+    "MatchID" : "259", 
+    "Date" : "2012-01-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a95"), 
+    "MatchID" : "260", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a96"), 
+    "MatchID" : "261", 
+    "Date" : "2011-08-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a97"), 
+    "MatchID" : "262", 
+    "Date" : "2012-03-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a98"), 
+    "MatchID" : "263", 
+    "Date" : "2011-08-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a99"), 
+    "MatchID" : "264", 
+    "Date" : "2012-01-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a9a"), 
+    "MatchID" : "265", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a9b"), 
+    "MatchID" : "266", 
+    "Date" : "2012-04-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a9c"), 
+    "MatchID" : "267", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a9d"), 
+    "MatchID" : "268", 
+    "Date" : "2012-01-16 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a9e"), 
+    "MatchID" : "269", 
+    "Date" : "2011-10-29 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762a9f"), 
+    "MatchID" : "270", 
+    "Date" : "2012-04-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "43", 
+        "Name" : "Manchester City", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa0"), 
+    "MatchID" : "271", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa1"), 
+    "MatchID" : "272", 
+    "Date" : "2012-01-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa2"), 
+    "MatchID" : "273", 
+    "Date" : "2011-10-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa3"), 
+    "MatchID" : "274", 
+    "Date" : "2012-02-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa4"), 
+    "MatchID" : "275", 
+    "Date" : "2011-12-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa5"), 
+    "MatchID" : "276", 
+    "Date" : "2012-04-08 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa6"), 
+    "MatchID" : "277", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa7"), 
+    "MatchID" : "278", 
+    "Date" : "2012-01-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa8"), 
+    "MatchID" : "279", 
+    "Date" : "2011-11-05 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aa9"), 
+    "MatchID" : "280", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aaa"), 
+    "MatchID" : "281", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aab"), 
+    "MatchID" : "282", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aac"), 
+    "MatchID" : "283", 
+    "Date" : "2011-08-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aad"), 
+    "MatchID" : "284", 
+    "Date" : "2012-03-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aae"), 
+    "MatchID" : "285", 
+    "Date" : "2011-08-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aaf"), 
+    "MatchID" : "286", 
+    "Date" : "2012-03-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab0"), 
+    "MatchID" : "287", 
+    "Date" : "2011-12-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "11"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab1"), 
+    "MatchID" : "288", 
+    "Date" : "2012-04-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "11", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab2"), 
+    "MatchID" : "289", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab3"), 
+    "MatchID" : "290", 
+    "Date" : "2012-03-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "1", 
+        "Name" : "Manchester United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab4"), 
+    "MatchID" : "291", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab5"), 
+    "MatchID" : "292", 
+    "Date" : "2012-03-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "3", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab6"), 
+    "MatchID" : "293", 
+    "Date" : "2011-09-12 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab7"), 
+    "MatchID" : "294", 
+    "Date" : "2012-01-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab8"), 
+    "MatchID" : "295", 
+    "Date" : "2011-10-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ab9"), 
+    "MatchID" : "296", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aba"), 
+    "MatchID" : "297", 
+    "Date" : "2011-08-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762abb"), 
+    "MatchID" : "298", 
+    "Date" : "2012-03-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762abc"), 
+    "MatchID" : "299", 
+    "Date" : "2011-12-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762abd"), 
+    "MatchID" : "300", 
+    "Date" : "2012-04-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762abe"), 
+    "MatchID" : "301", 
+    "Date" : "2011-10-16 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762abf"), 
+    "MatchID" : "302", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac0"), 
+    "MatchID" : "303", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac1"), 
+    "MatchID" : "304", 
+    "Date" : "2012-03-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac2"), 
+    "MatchID" : "305", 
+    "Date" : "2011-10-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac3"), 
+    "MatchID" : "306", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "11", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac4"), 
+    "MatchID" : "307", 
+    "Date" : "2011-10-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac5"), 
+    "MatchID" : "308", 
+    "Date" : "2012-02-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "4", 
+        "Name" : "Newcastle United", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac6"), 
+    "MatchID" : "309", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac7"), 
+    "MatchID" : "310", 
+    "Date" : "2012-01-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac8"), 
+    "MatchID" : "311", 
+    "Date" : "2011-08-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "3", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ac9"), 
+    "MatchID" : "312", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aca"), 
+    "MatchID" : "313", 
+    "Date" : "2011-09-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762acb"), 
+    "MatchID" : "314", 
+    "Date" : "2012-02-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762acc"), 
+    "MatchID" : "315", 
+    "Date" : "2011-10-15 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762acd"), 
+    "MatchID" : "316", 
+    "Date" : "2012-02-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ace"), 
+    "MatchID" : "317", 
+    "Date" : "2011-12-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762acf"), 
+    "MatchID" : "318", 
+    "Date" : "2012-04-09 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad0"), 
+    "MatchID" : "319", 
+    "Date" : "2011-09-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad1"), 
+    "MatchID" : "320", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad2"), 
+    "MatchID" : "321", 
+    "Date" : "2011-08-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "3"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad3"), 
+    "MatchID" : "322", 
+    "Date" : "2012-03-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "3", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "13"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad4"), 
+    "MatchID" : "323", 
+    "Date" : "2011-12-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad5"), 
+    "MatchID" : "324", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "45", 
+        "Name" : "Norwich City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad6"), 
+    "MatchID" : "325", 
+    "Date" : "2011-11-19 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad7"), 
+    "MatchID" : "326", 
+    "Date" : "2012-05-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "7", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad8"), 
+    "MatchID" : "327", 
+    "Date" : "2011-12-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ad9"), 
+    "MatchID" : "328", 
+    "Date" : "2012-03-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ada"), 
+    "MatchID" : "329", 
+    "Date" : "2011-12-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762adb"), 
+    "MatchID" : "330", 
+    "Date" : "2012-04-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762adc"), 
+    "MatchID" : "331", 
+    "Date" : "2011-10-30 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762add"), 
+    "MatchID" : "332", 
+    "Date" : "2012-04-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ade"), 
+    "MatchID" : "333", 
+    "Date" : "2011-12-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762adf"), 
+    "MatchID" : "334", 
+    "Date" : "2012-04-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae0"), 
+    "MatchID" : "335", 
+    "Date" : "2011-08-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae1"), 
+    "MatchID" : "336", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae2"), 
+    "MatchID" : "337", 
+    "Date" : "2011-09-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae3"), 
+    "MatchID" : "338", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "52", 
+        "Name" : "Queens Park Rangers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae4"), 
+    "MatchID" : "339", 
+    "Date" : "2011-09-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae5"), 
+    "MatchID" : "340", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae6"), 
+    "MatchID" : "341", 
+    "Date" : "2011-10-02 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae7"), 
+    "MatchID" : "342", 
+    "Date" : "2012-02-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae8"), 
+    "MatchID" : "343", 
+    "Date" : "2011-12-11 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "6"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762ae9"), 
+    "MatchID" : "344", 
+    "Date" : "2012-03-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aea"), 
+    "MatchID" : "345", 
+    "Date" : "2011-08-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aeb"), 
+    "MatchID" : "346", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aec"), 
+    "MatchID" : "347", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aed"), 
+    "MatchID" : "348", 
+    "Date" : "2012-03-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aee"), 
+    "MatchID" : "349", 
+    "Date" : "2011-12-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aef"), 
+    "MatchID" : "350", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "110", 
+        "Name" : "Stoke City", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af0"), 
+    "MatchID" : "351", 
+    "Date" : "2011-08-27 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af1"), 
+    "MatchID" : "352", 
+    "Date" : "2012-01-21 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af2"), 
+    "MatchID" : "353", 
+    "Date" : "2011-12-18 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af3"), 
+    "MatchID" : "354", 
+    "Date" : "2012-04-07 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af4"), 
+    "MatchID" : "355", 
+    "Date" : "2011-10-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af5"), 
+    "MatchID" : "356", 
+    "Date" : "2012-02-25 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af6"), 
+    "MatchID" : "357", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af7"), 
+    "MatchID" : "358", 
+    "Date" : "2012-01-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "17", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af8"), 
+    "MatchID" : "359", 
+    "Date" : "2011-12-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762af9"), 
+    "MatchID" : "360", 
+    "Date" : "2012-04-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "56", 
+        "Name" : "Sunderland", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762afa"), 
+    "MatchID" : "361", 
+    "Date" : "2011-12-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "7"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762afb"), 
+    "MatchID" : "362", 
+    "Date" : "2012-04-01 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762afc"), 
+    "MatchID" : "363", 
+    "Date" : "2011-09-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762afd"), 
+    "MatchID" : "364", 
+    "Date" : "2012-02-04 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762afe"), 
+    "MatchID" : "365", 
+    "Date" : "2011-08-20 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "8", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762aff"), 
+    "MatchID" : "366", 
+    "Date" : "2012-03-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "10", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b00"), 
+    "MatchID" : "367", 
+    "Date" : "2011-10-22 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b01"), 
+    "MatchID" : "368", 
+    "Date" : "2012-04-28 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "80", 
+        "Name" : "Swansea City", 
+        "TeamHomeFormation" : "13", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b02"), 
+    "MatchID" : "369", 
+    "Date" : "2011-11-26 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b03"), 
+    "MatchID" : "370", 
+    "Date" : "2012-01-03 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b04"), 
+    "MatchID" : "371", 
+    "Date" : "2011-09-24 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "4", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "8"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b05"), 
+    "MatchID" : "372", 
+    "Date" : "2012-01-31 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b06"), 
+    "MatchID" : "373", 
+    "Date" : "2011-09-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamAwayFormation" : "2"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b07"), 
+    "MatchID" : "374", 
+    "Date" : "2012-01-14 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "6", 
+        "Name" : "Tottenham Hotspur", 
+        "TeamHomeFormation" : "6", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b08"), 
+    "MatchID" : "375", 
+    "Date" : "2011-12-10 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b09"), 
+    "MatchID" : "376", 
+    "Date" : "2012-03-17 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(0)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b0a"), 
+    "MatchID" : "377", 
+    "Date" : "2011-10-16 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b0b"), 
+    "MatchID" : "378", 
+    "Date" : "2012-02-12 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "2", 
+        "ResultOfTeamHome" : NumberInt(-1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "35", 
+        "Name" : "West Bromwich Albion", 
+        "TeamAwayFormation" : "5"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b0c"), 
+    "MatchID" : "379", 
+    "Date" : "2011-11-06 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamHomeFormation" : "5", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamAwayFormation" : "4"
+    }
+}
+{ 
+    "_id" : ObjectId("5a2058753dc65d0c24762b0d"), 
+    "MatchID" : "380", 
+    "Date" : "2012-05-13 00:00:00", 
+    "TeamHome" : {
+        "TeamID" : "111", 
+        "Name" : "Wigan Athletic", 
+        "TeamHomeFormation" : "10", 
+        "ResultOfTeamHome" : NumberInt(1)
+    }, 
+    "TeamAway" : {
+        "TeamID" : "39", 
+        "Name" : "Wolverhampton Wanderers", 
+        "TeamAwayFormation" : "2"
+    }
+}
