@@ -40,7 +40,7 @@ To launch the app, run the *CloudAppMongo.exe* file in *build\exe.win-amd64-3.6*
 Here you go ! 
 
 
-# Liste des contributeurs
+# Contributors
 Salem Ben Mabrouk
 
 Badre-Addine FOUAD
