@@ -34,19 +34,19 @@ def print_menu():
 
 def print_sub_menu_1():
     print(30 * "-", "MENU", 30 * "-")
-    print("1. Afficher le nombre de but par joueur")
-    print("2. Afficher le nombre de cleansheet par gardien")
-    print("3. Afficher le nombre de but concédé par joueur")
-    print("4. Afficher le nombre de pénalty concédé par joueur")
+    print("1. Nombre de but par joueur")
+    print("2. Nombre de cleansheet par gardien")
+    print("3. Nombre de but concédé par joueur")
+    print("4. Nombre de pénalty concédé par gardien")
     print("5. Retour")
     print(67 * "-")
 
 
 def print_sub_menu_2():
     print(30 * "-", "MENU", 30 * "-")
-    print("1. Afficher V/N/D par équipe sur les n derniers match")
-    print("2. Afficher le top n équipe de la premier league")
-    print("3. Afficher la comparaison entre l'équipe X et les autres équipe du top n")
+    print("1. V/N/D par équipe sur les n derniers match")
+    print("2. Top n des équipes ayant le plus gagné de matches")
+    print("3. Comparaison entre l'équipe X et les autres équipes du top n")
     print("4. Retour")
     print(67 * "-")
 
@@ -197,24 +197,6 @@ if not client:
     client = MongoClient('localhost', 27017)
     logger.info("connected")
 
-#Initiate replicasets
-# config = {'_id': 'rs0', 'members': [
-#     {'_id': 0, 'host': 'localhost:27017'},
-#     {'_id': 1, 'host': 'localhost:27018'},
-#     {'_id': 2, 'host': 'localhost:27019'}]}
-#client.admin.command("replSetInitiate", config)
-#Connection to replica sets
-# MongoClient('LAPTOP:27017', replicaset='rs0')
-# MongoClient('LAPTOP:27018', replicaset='rs0')
-# MongoClient('LAPTOP:27019', replicaset='rs0')
-# c = MongoClient(replicaset='rs0')
-# print(c.nodes)
-# sleep(0.1)
-# print(c.nodes)
-# sleep(0.1)
-# print(c.nodes)
-# sleep(0.5)
-# print(c.nodes)
 
 # Getting the database
 db = client.premierleague
